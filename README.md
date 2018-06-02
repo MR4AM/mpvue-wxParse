@@ -1,5 +1,10 @@
-# mpvue-wxParse 适用于 Mpvue 的微信小程序富文本解析组件
+# mpvue入门视频教程
 
+https://www.itying.com/category-79-b0.html
+
+
+
+# mpvue-wxParse 适用于 Mpvue 的微信小程序富文本解析组件
 > 支持 Html、Markdown 转 Wxml 可视化，修改自: [wxParse](https://github.com/icindy/wxParse)
 
 [![npm package](https://img.shields.io/npm/v/mpvue-wxparse.svg)](https://npmjs.org/package/mpvue-wxparse)
