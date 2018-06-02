@@ -1,7 +1,10 @@
-# mpvue入门视频教程
+# 一小时学会mpvue入门视频教程
 
 https://www.itying.com/category-79-b0.html
 
+# 六小时学会Vue+Vuex视频教程
+
+https://www.itying.com/goods-864.html
 
 
 # mpvue-wxParse 适用于 Mpvue 的微信小程序富文本解析组件
