@@ -1,17 +1,14 @@
-# 一小时学会mpvue入门视频教程
+# mpvue入门视频教程
 
 https://www.itying.com/category-79-b0.html
 
-# 六小时学会Vue+Vuex视频教程
+# vue入门视频教程
 
-https://www.itying.com/goods-864.html
+https://www.itying.com/category-79-b0.html
 
 
 # mpvue-wxParse 适用于 Mpvue 的微信小程序富文本解析组件
-> 支持 Html、Markdown 转 Wxml 可视化，修改自: [wxParse](https://github.com/icindy/wxParse)
-
-[![npm package](https://img.shields.io/npm/v/mpvue-wxparse.svg)](https://npmjs.org/package/mpvue-wxparse)
-[![npm downloads](http://img.shields.io/npm/dm/mpvue-wxparse.svg)](https://npmjs.org/package/mpvue-wxparse)
+> 支持 Html、Markdown 转 Wxml 可视化
 
 
 ## 扫码体验
